@@ -16,8 +16,8 @@ const Navbar = () => {
       <a className="mr-5 hover:text-gray-900 font-display">Contact</a>
       
     </nav>
-    <button className="inline-flex items-center font-display text-white bg-blue-500 border-0 py-1 px-3 focus:outline-none rounded text-base mt-4 md:mt-0">Login
-     
+   <a href="https://free-courses-with-certificates.vercel.app/" ></a><button className="inline-flex items-center font-display text-white bg-blue-500 border-0 py-1 px-3 focus:outline-none rounded text-base mt-4 md:mt-0">Login
+     </button></a>
     </button>
   </div>
 </header>
